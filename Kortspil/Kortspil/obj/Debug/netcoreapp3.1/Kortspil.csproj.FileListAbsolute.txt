@@ -1,0 +1,14 @@
+C:\Users\valde\source\repos\Kortspil\Kortspil\obj\Debug\netcoreapp3.1\Kortspil.csproj.AssemblyReference.cache
+C:\Users\valde\source\repos\Kortspil\Kortspil\obj\Debug\netcoreapp3.1\Kortspil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valde\source\repos\Kortspil\Kortspil\obj\Debug\netcoreapp3.1\Kortspil.AssemblyInfoInputs.cache
+C:\Users\valde\source\repos\Kortspil\Kortspil\obj\Debug\netcoreapp3.1\Kortspil.AssemblyInfo.cs
+C:\Users\valde\source\repos\Kortspil\Kortspil\obj\Debug\netcoreapp3.1\Kortspil.csproj.CoreCompileInputs.cache
+C:\Users\valde\source\repos\Kortspil\Kortspil\bin\Debug\netcoreapp3.1\Kortspil.exe
+C:\Users\valde\source\repos\Kortspil\Kortspil\bin\Debug\netcoreapp3.1\Kortspil.deps.json
+C:\Users\valde\source\repos\Kortspil\Kortspil\bin\Debug\netcoreapp3.1\Kortspil.runtimeconfig.json
+C:\Users\valde\source\repos\Kortspil\Kortspil\bin\Debug\netcoreapp3.1\Kortspil.runtimeconfig.dev.json
+C:\Users\valde\source\repos\Kortspil\Kortspil\bin\Debug\netcoreapp3.1\Kortspil.dll
+C:\Users\valde\source\repos\Kortspil\Kortspil\bin\Debug\netcoreapp3.1\Kortspil.pdb
+C:\Users\valde\source\repos\Kortspil\Kortspil\obj\Debug\netcoreapp3.1\Kortspil.dll
+C:\Users\valde\source\repos\Kortspil\Kortspil\obj\Debug\netcoreapp3.1\Kortspil.pdb
+C:\Users\valde\source\repos\Kortspil\Kortspil\obj\Debug\netcoreapp3.1\Kortspil.genruntimeconfig.cache
